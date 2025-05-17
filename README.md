@@ -64,9 +64,4 @@ This project presents an interactive Power BI dashboard developed to analyze Ama
 
 This project showcases how data can inform business decisions in inventory management, regional targeting, and product strategy. The Power BI dashboard offers an intuitive interface for exploring Amazon's global sales data.
 
----
 
-## 🧑‍💻 Author
-
-Prepared by: HIDA ISMAIL 
-Status: Data Analytics Project  
