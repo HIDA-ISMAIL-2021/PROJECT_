@@ -68,5 +68,5 @@ This project showcases how data can inform business decisions in inventory manag
 
 ## 🧑‍💻 Author
 
-Prepared by: *[Your Name]*  
-Status: Academic/Data Analytics Project  
+Prepared by: HIDA ISMAIL 
+Status: Data Analytics Project  
